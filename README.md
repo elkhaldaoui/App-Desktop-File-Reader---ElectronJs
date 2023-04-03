@@ -1,22 +1,22 @@
-AnyViewer - a programmable desktop file viewer built on Electron
+App Desktop : File Reader - ElectronJs
 ================================================================================
 
-AnyViewer is a desktop application to view files, built on
+File Reader is a desktop application to view files, built on
 [Electron](http://electron.atom.io/).
 The application only displays HTML, so AnyViewer needs to be programmed to
 convert arbitrary files into HTML format, using a plugin.
 
-AnyViewer ships with plugins to handle Markdown, and source files that
+File Reader ships with plugins to handle Markdown, and source files that
 can be rendered by the
 [highlight.js package](https://www.npmjs.com/package/highlight.js) (the list
 of languages is available
 [here](https://github.com/isagalaev/highlight.js/tree/master/src/languages)).
 
-**AnyViewer viewing it's own README.md**
+**File Reader viewing it's own README.md**
 
 ![Markdown sample](images/Markdown.png)
 
-**AnyViewer viewing one of it's JavaScript source files**
+**File Reader viewing one of it's JavaScript source files**
 
 ![JavaScript sample](images/JavaScript.png)
 
